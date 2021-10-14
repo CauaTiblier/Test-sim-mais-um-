@@ -1,0 +1,1 @@
+"use strict";var _nome=function(e){console.log(e)};nome("xaxacdas"),nome("teste");
